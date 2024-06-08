@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Sapiens: Uma Breve História da Humanidade",
+    "autor": "Yuval Noah Harari",
+    "area": "História",
+    "image": "https://example.com/sapiens.jpg",
+    "editora": "Companhia das Letras",
+    "ano_de_lancamento": 2015,
+    "isbn": "9788535925698"
+  },
+  {
+    "titulo": "O Poder do Hábito",
+    "autor": "Charles Duhigg",
+    "area": "Psicologia",
+    "image": "https://example.com/opoder.jpg",
+    "editora": "Objetiva",
+    "ano_de_lancamento": 2012,
+    "isbn": "9788539004115"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "area": "Ficção",
+    "image": "https://example.com/1984.jpg",
+    "editora": "Companhia das Letras",
+    "ano_de_lancamento": 2009,
+    "isbn": "9788535914845"
+  },
+  {
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "area": "Ficção",
+    "image": "https://example.com/arevolucao.jpg",
+    "editora": "Companhia das Letras",
+    "ano_de_lancamento": 2007,
+    "isbn": "9788535909551"
+  },
+  {
+    "titulo": "Mindset: A Nova Psicologia do Sucesso",
+    "autor": "Carol S. Dweck",
+    "area": "Psicologia",
+    "image": "https://example.com/mindset.jpg",
+    "editora": "Fontanar",
+    "ano_de_lancamento": 2017,
+    "isbn": "9788595080800"
+  }
+]
